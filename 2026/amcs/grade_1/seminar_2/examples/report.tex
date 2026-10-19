@@ -8,46 +8,41 @@
 \usepackage[margin=22mm]{geometry}
 \usepackage[unicode,hidelinks]{hyperref}
 
-\title{Паспорт учебного проекта}
-\author{Учебная группа}
+\title{Пример LaTeX}
+\author{}
 \date{}
 
 \begin{document}
 \maketitle
 
-\section{Задача}
-Мы передаём учебный проект другой группе. Получатель должен понять,
-как запустить работу, что разрешено использовать и в чём состоит результат.
-Это пример оформления, а не отчёт о проведённом эксперименте.
-
-\section{Модель}
+\section{Формула}
 Пусть $n_i$ --- число объектов категории $i$, а всего категорий $k$.
-Доля категории при непустом наборе определяется как
+Доля категории определяется как
 \begin{equation}
     p_i = \frac{n_i}{\sum_{j=1}^{k} n_j},
     \qquad \sum_{j=1}^{k} n_j > 0.
     \label{eq:share}
 \end{equation}
 В формуле~\eqref{eq:share} знаменатель --- общее число объектов.
-Если объектов нет, доли по этой формуле не определены.
+При пустом наборе доля по этой формуле не определена.
 
-\section{Что передаём}
-На рисунке~\ref{fig:workflow} показан путь от исходника к читателю.
+\section{Рисунок}
+Примеры преобразования документов показаны на рисунке~\ref{fig:workflow}.
 \begin{figure}[ht]
     \centering
     \includegraphics[width=\linewidth]{workflow.png}
-    \caption{От исходника к понятному результату}
+    \caption{Примеры преобразования документов}
     \label{fig:workflow}
 \end{figure}
 
+\section{Таблица}
 \begin{center}
 \begin{tabular}{ll}
 \toprule
-Файл & Назначение \\
+Формат & Результат \\
 \midrule
-\texttt{README.md} & Инструкция пользователю \\
-\texttt{report.tex} & Исходник технической записки \\
-\texttt{report.pdf} & Собранный документ \\
+Markdown & HTML \\
+LaTeX & PDF \\
 \bottomrule
 \end{tabular}
 \end{center}
