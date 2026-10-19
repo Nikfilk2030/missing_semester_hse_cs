@@ -1,17 +1,12 @@
 # Missing Semester · Инструменты промышленной разработки
 
-Материалы семинаров: конспекты, примеры и ссылки на домашние задания.
+Курс по темам, о которых редко рассказывают в ВУЗах
 
-## 2026 · ПМИ / AMCS
+Inspired by: 
 
-AMCS — Applied Math and Computer Science.
+- [MIT Missing Semester course](https://missing.csail.mit.edu)
+- [@danlark1 HSE CS missing semester 2021 course](https://github.com/danlark1/hse_missing_cs_education)
 
-- **[1 курс](2026/amcs/grade_1/README.md)**
-  - [Семинар 1 — терминал, редакторы, PDB и bash](2026/amcs/grade_1/seminar_1/README.md)
-  - [Семинар 2 — пакеты, open source, Markdown и LaTeX](2026/amcs/grade_1/seminar_2/README.md)
-  - [Домашнее задание 2 — Git](2026/amcs/grade_1/hw_2/README.md)
-- **[2 курс](2026/amcs/grade_2/README.md)**
+Авторы курса: @Nikfilk2030, @ATGsan
 
-Семинары опираются на [MIT Missing Semester](https://missing.csail.mit.edu/) и [материалы Данилы Кутенина / Danlark](https://github.com/danlark1/hse_missing_cs_education). Здесь собраны собственные материалы занятий, а не полная копия этих курсов.
-
-Условия использования материалов репозитория — в [LICENSE](LICENSE). У внешних библиотек, примеров и материалов по ссылкам свои условия использования.
+Условия использования материалов репозитория — в [LICENSE](LICENSE)
