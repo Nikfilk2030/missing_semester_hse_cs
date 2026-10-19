@@ -9,7 +9,7 @@ import unittest
 
 
 ROOT = Path(__file__).resolve().parents[1]
-EXAMPLES = ROOT / "2026" / "amcs" / "grade_1" / "seminar_2" / "examples"
+EXAMPLES = ROOT / "2026" / "amcs" / "year_1" / "seminar_2" / "examples"
 
 
 class ModuleDemoTests(unittest.TestCase):

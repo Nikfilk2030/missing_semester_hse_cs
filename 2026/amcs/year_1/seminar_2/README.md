@@ -62,9 +62,9 @@ print(package.read_text("METADATA"))
 ```sh
 python3 -m venv .venv
 source .venv/bin/activate
-python -m pip install -r 2026/amcs/grade_1/seminar_2/examples/requirements.txt
-python 2026/amcs/grade_1/seminar_2/examples/modules.py
-python 2026/amcs/grade_1/seminar_2/examples/package_metadata.py
+python -m pip install -r 2026/amcs/year_1/seminar_2/examples/requirements.txt
+python 2026/amcs/year_1/seminar_2/examples/modules.py
+python 2026/amcs/year_1/seminar_2/examples/package_metadata.py
 ```
 
 </details>
