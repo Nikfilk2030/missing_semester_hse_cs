@@ -1,5 +1,7 @@
 # Семинар 2: пакеты, open source, Markdown и LaTeX
 
+[Конспект семинара (PDF)](missing_semester_seminar_2.pdf)
+
 [Пакеты](#packages) · [Open source](#opensource) · [Markdown](#markdown) · [LaTeX](#latex)
 
 <a name="packages"></a>
