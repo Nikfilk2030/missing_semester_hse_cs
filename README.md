@@ -12,10 +12,7 @@
 | Отладка |
 | Open source |
 | Markdown и LaTeX |
-
-## ДЗ
-
-- [ДЗ-3](./2026/amcs/year_1/hw_3/task.md)
+| Docker |
 
 ## Как ориентироваться
 
