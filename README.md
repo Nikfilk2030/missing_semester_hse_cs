@@ -13,6 +13,7 @@
 | Open source |
 | Markdown и LaTeX |
 | Docker |
+| [LLM-агенты: инструменты, MCP и оценка качества](2026/amcs/year_1/seminar_3/) |
 
 ## Как ориентироваться
 
