@@ -1,0 +1,7 @@
+**
+!Dockerfile
+!simple_web/
+!simple_web/*.py
+!queue_demo/
+!queue_demo/*.py
+!queue_demo/requirements.txt
